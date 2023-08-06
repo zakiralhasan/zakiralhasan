@@ -2,7 +2,8 @@
 
 ## I'm a Front End Developer!! 👩‍💻
 
-- 🤓 I'm learning how to make cool SparkAR Filters
+- 🚀 I'm trying to do front-end code that is simple and elegant.
+- 🚀 Build websites that are responsive and scalable.
 
 ### Connect with me:
 
@@ -27,4 +28,3 @@
 
 [linkedin]: https://linkedin.com/in/zakiralhasan
 [portfolio]: https://zakiralhasan.netlify.app/
-
